@@ -1,0 +1,29 @@
+ 
+
+computer program? Well, it's a set of instructions that run on a digital device, and those instructions perform certain tasks. When combined, these instructions form a computer program
+برنامج الحاسب
+؟ حسنًا ، إنها مجموعة من التعليمات التي تعمل على جهاز رقمي ، وتلك التعليمات تؤدي مهام معينة. عند الجمع ، تشكل هذه التعليمات برنامج كمبيوتر
+
+Purpose of a Computer Program.
+
+A computer program is a set of instructions that runs on a computer or other digital device. 
+At the machine level, the program consists of binary instructions – ones and zeros, 
+or machine code. 
+Most programs are written in high-level code or readable code, which 
+must be translated to machine code. 
+الغرض من برنامج الكمبيوتر.:
+برنامج الكمبيوتر هو مجموعة من الإرشادات التي يتم تشغيلها على جهاز كمبيوتر أو جهاز رقمي آخر.على مستوى الجهاز ،
+ يتكون البرنامج من تعليمات ثنائية - تعليمات وأصفار ،أو رمز الجهاز
+.تتم كتابة معظم البرامج في التعليمات البرمجية عالية المستوى أو التعليمات البرمجية القابلة للقراءةيجب أن تترجم إلى رمز الجهاز.
+A diagram illustrates computer code running through three different platforms and being compiled. The code running through Solaris OS translates to Solaris OS Binary, code running through Linux  translates to Linux Binary, and code running through Microsoft Windows translates to Microsoft Windows Binary.
+
+يوضح الرسم التخطيطي كود الكمبيوتر الذي يعمل من خلال ثلاث منصات مختلفة ويتم تجميعها. يترجم الرمز الذي يتم تشغيله من خلال Solaris OS إلى Solaris OS Binary ، بينما تترجم التعليمات البرمجية التي تعمل من خلال Linux إلى Linux Binary ، وتترجم التعليمات البرمجية التي تعمل عبر Microsoft Windows إلى Microsoft Windows Binary.
+
+A compiler will combine the code with additional files, if there are any to create a platform dependent executable
+سيجمع المترجم الشفرة مع ملفات إضافية ، إذا كان هناك أي منها لإنشاء نظام قابل للتنفيذ يعتمد على النظام الأساسي
+
+
+
+Examples of binary code are Solaris OS Binary, Linux Binary, and Microsoft Windows Binary. Each one runs through its respective operating system and project libraries to translate to the respective executable file, namely Solaris OS Executable, Linux Executable, or Microsoft Windows Executable. 
+
+أمثلة الشفرة الثنائية هي Solaris OS Binary و Linux Binary و Microsoft Windows Binary. تعمل كل واحدة من خلال نظام التشغيل ومكتبات المشاريع الخاصة بها للترجمة إلى الملف القابل للتنفيذ المعني ، أي Solaris OS Executable أو Linux Executable أو Microsoft Windows Executable.
